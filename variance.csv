@@ -1,0 +1,5 @@
+EXT_ONLY,"('CTC', 29, datetime.date(2018, 4, 10), Decimal('793.34'), Decimal('914.00'), Decimal('728.20'), Decimal('660987.47'))"
+EXT_ONLY,"('NEW', 30, datetime.date(2018, 4, 10), Decimal('793.34'), Decimal('914.00'), Decimal('728.20'), Decimal('660987.47'))"
+EXT_ONLY,"('SAFETY', 31, datetime.date(2018, 4, 10), Decimal('793.34'), Decimal('914.00'), Decimal('728.20'), Decimal('660987.47'))"
+INT_ONLY,"('Annuity', 19, datetime.date(2018, 3, 12), Decimal('213.86'), Decimal('1065.97'), Decimal('951.93'), Decimal('550783.13'))"
+VARIANCE,"('Annuity', 1, datetime.date(2018, 4, 8), Decimal('390.00'), Decimal('1266.59'), Decimal('142.10'), Decimal('688051.40'))"
